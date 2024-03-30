@@ -60,7 +60,7 @@ const HomePage = () => {
               Employees
             </h2>
             <p className="mt-1 text-sm text-gray-400 dark:text-gray-300">
-              This is a list of all employees. You can add new employees, edit
+              This is a list of all employees. You can add new employees, edit milan 
               or delete existing ones.
             </p>
           </div>

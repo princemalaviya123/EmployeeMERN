@@ -20,7 +20,7 @@ const CreateEmployeePage = () => {
           <div className="relative">
             <div className="w-full max-w-xl xl:mx-auto xl:w-full xl:max-w-xl xl:pr-24">
               <h3 className="text-4xl font-bold text-white">
-              Empower your business with our employee creation!
+              Empower your business with milan employee creation!
               </h3>
             </div>
           </div>
